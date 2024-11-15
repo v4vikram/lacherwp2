@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14" width="14" height="14">
+	<title>Vector Smart Object</title>
+	<defs>
+		<image  width="14" height="14" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAAXNSR0IB2cksfwAAAJZQTFRFGmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1GmE1a+r06wAAADJ0Uk5TAA+k48EKyv/C2BFi9Coh8mC7r1XwGQbhbgtPcNkE1ugsCelYqHUCCMX+aRrs60z7/W3h+23VAAAAf0lEQVR4nGNkgANGEIDzWIGcvwguEysT4zc4l/sPK+NnBhiXj/EH5wcGOFfwG/c7BjhX+Asv42s4V4zxg+ALsGWSjB++MUi/EWV8DObKvZQAWvhU5i7EKSqPGZhkHjHJ3oJw1RnvMyjdU74GdSiDNuNtBrUv92FcBj2g3vNQ6wHVlB0YlvazaQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Vector Smart Object" href="#img1" x="0" y="0"/>
+</svg>
